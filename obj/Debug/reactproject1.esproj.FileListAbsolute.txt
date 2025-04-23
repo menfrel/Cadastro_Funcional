@@ -1,0 +1,2 @@
+C:\Users\menfr\source\repos\reactproject1\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache
+C:\Users\menfr\source\repos\menfrel\Cadastro\obj\Debug\reactproject1.esproj.CoreCompileInputs.cache

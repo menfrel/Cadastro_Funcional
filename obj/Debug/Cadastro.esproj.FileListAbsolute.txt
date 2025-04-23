@@ -1,0 +1,2 @@
+C:\Users\menfr\source\repos\Cadastro_Polvo\obj\Debug\Cadastro.esproj.CoreCompileInputs.cache
+C:\Users\menfr\source\repos\menfrel\Cadastro_Polvo\obj\Debug\Cadastro.esproj.CoreCompileInputs.cache
