@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\menfr\\source\\repos\\menfrel\\CadastroPolvo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|Cadastro.esproj|c:\\users\\menfr\\source\\repos\\menfrel\\cadastropolvo\\src\\components\\productform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|Cadastro.esproj|solutionrelative:src\\components\\productform.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|Cadastro.esproj|c:\\users\\menfr\\source\\repos\\menfrel\\cadastropolvo\\src\\components\\productdetail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A23B6923-C9A3-0A83-102E-399455D3D024}|Cadastro.esproj|solutionrelative:src\\components\\productdetail.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetail.tsx",
+              "DocumentMoniker": "C:\\Users\\menfr\\source\\repos\\menfrel\\CadastroPolvo\\src\\components\\ProductDetail.tsx",
+              "RelativeDocumentMoniker": "src\\components\\ProductDetail.tsx",
+              "ToolTip": "C:\\Users\\menfr\\source\\repos\\menfrel\\CadastroPolvo\\src\\components\\ProductDetail.tsx",
+              "RelativeToolTip": "src\\components\\ProductDetail.tsx",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAswF0BAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T13:26:49.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductForm.tsx",
+              "DocumentMoniker": "C:\\Users\\menfr\\source\\repos\\menfrel\\CadastroPolvo\\src\\components\\ProductForm.tsx",
+              "RelativeDocumentMoniker": "src\\components\\ProductForm.tsx",
+              "ToolTip": "C:\\Users\\menfr\\source\\repos\\menfrel\\CadastroPolvo\\src\\components\\ProductForm.tsx",
+              "RelativeToolTip": "src\\components\\ProductForm.tsx",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAvwPcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-23T12:53:19.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -177,7 +177,6 @@ const ProductForm = ({
     }
   };
 
-
   // Handle image upload
   const handleImageUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
     if (e.target.files && e.target.files.length > 0) {
